@@ -1,0 +1,13 @@
+
+h3{
+    color: green;
+}
+a:hover{
+    color: #cc0000;
+    font-weight: bold;
+}
+
+a:link{
+    color:#008b45;
+    text-decoration:none;
+}
